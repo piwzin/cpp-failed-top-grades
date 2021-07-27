@@ -6,8 +6,6 @@ O programa deve ler uma quantidade indeterminada de notas, contando o número de
 
 **O programa deve parar quando ler uma nota inválida, ou seja, menor que zero**. 
 
-Veja o **Feeback** no link *Pull requests* para aber se a saída do programa está de acordo com o esperado.
-
 ## Testes
 
 *ENTRADA 1*) Notas: -1
